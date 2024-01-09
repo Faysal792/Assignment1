@@ -1,0 +1,150 @@
+.Banner {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.new-year {
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.Party {
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    margin-top: 0%;
+}
+
+/* Second */
+.off {
+    margin-bottom: 48px;
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.holiday {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.category {
+    margin-top: 0;
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.photo {
+    margin: 0 430px 100px;
+}
+
+/* Third */
+.container {
+    position: relative;
+    margin: 0 200px;
+}
+
+.group {
+    position: absolute;
+    left: 50%;
+    bottom: 75%;
+    transform: translate(75%, 75%);
+}
+
+.position {
+    position: absolute;
+    padding-left: 100px;
+    top: 15%;
+    color: white;
+}
+
+.welcome {
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 700;
+    margin-bottom: 0;
+
+}
+
+.dolor {
+    margin-top: 0;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.join {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+/* Fourth */
+.fourth {
+    margin: 100px 150px;
+    padding: 100px 385px 215px 385px;
+    background-image: linear-gradient(#fa9e9e, #f4eaea00);
+    font-size: 30px;
+    text-align: center;
+}
+.join{
+    border: none;
+    color: white;
+    padding: 14px 32px;
+    border-radius: 8px;
+background: #F00;
+}
+/* Fifth */
+.gift{
+    margin: 130px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.picture{
+    width: 430px;
+    height: 450px;
+margin:  0 130px;
+border: 8px;
+border-radius: 16px;
+gap: 24px;
+row-gap: 24px;
+display: flex;
+}
+.pictures{
+    row-gap: 24px;
+    width: 430px;
+    height: 450px;
+margin:  0 130px;
+border: 8px;
+border-radius: 16px;
+gap: 24px;
+display: flex; 
+}
+
